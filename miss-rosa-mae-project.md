@@ -24,12 +24,20 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 - Amazon (Associates, Creator Connections, KDP, Audible/ACX)
 - Supplements or any third-party product recommendations
 - Brand outreach or sponsorships
+- Downloading, scraping or analyzing other Instagram accounts' content (e.g. the reference carousel account discussed earlier)
 
 ---
 
 ## 3. Target audience
 
-**Proposed, confirm with the user:** adults aged roughly 30–55, mostly women, who are stressed and tired: busy working parents juggling work, kids, bills and a packed schedule, who sleep badly and feel worn out. Older viewers (50+) are a secondary audience, especially for sleep and gentle body care.
+**Men and women alike.** The core audience is adults aged roughly 30–55 who are stressed and tired: busy working parents juggling work, kids, bills and a packed schedule, who sleep badly and feel worn out. Older viewers (50+) are a secondary audience, especially for sleep and gentle body care. (Age range proposed; confirm with the user.)
+
+**Everything must speak to men and women equally:** videos, captions, ebooks, audiobooks, workbooks, the landing page and marketing copy.
+- Don't assume the viewer or reader is a woman. Address "you," not "ladies" or "girls."
+- Mix examples: dads and moms, husbands and wives, working men and working women, sons and daughters caring for aging parents.
+- Include stories and situations that resonate with men too, e.g. a man who won't admit he's stressed, a dad lying awake over bills, a husband whose back aches from a desk job.
+- Visuals, book covers, colors and design should feel warm and welcoming to everyone, not styled only for women. (Keep the rose theme subtle enough for that.)
+- Her role as an elder applies to everyone: she talks to grown men the same loving, no-nonsense way she talks to women.
 
 ---
 
@@ -45,7 +53,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 | Body | Full-figured |
 | Accent | A soft, slow, rich Southern accent |
 | Personality | Warm but no-nonsense. Teases with love, tells the truth, laughs at herself. Wise without being preachy. Dignified, with her own life, opinions and humor. |
-| Role toward the viewer | A wise elder and mother figure, **not** a caretaker or servant |
+| Role toward the viewer | A wise elder and mother figure to men and women alike, **not** a caretaker or servant |
 
 ### Backstory
 
@@ -214,7 +222,8 @@ Use the same tool stack and accounts setup as Walter (details in `WALTER-PLAYBOO
 5. **"Not medical advice" note** in each book and on the landing page.
 6. **The kids:** frame lessons as raising them ("what I learned getting three restless kids to sleep"), never as testing things on them.
 7. **No caricature.** Never portray her as the always-serving "mammy" figure; she has depth, opinions, humor and a life of her own. Don't call her "Mama" or "Auntie." Follow the language rules in section 6.
-8. **Original content only.** If other accounts are studied for patterns, never copy their text.
+8. **Original content only.** Everything she says and writes is original.
+9. **Men and women alike.** Every piece of content follows the audience rules in section 3.
 
 ---
 
@@ -239,7 +248,7 @@ Follow the Walter sequence where it differs; this is the default:
 
 - Final character name (being tested), then handles (Instagram, TikTok, YouTube) and a domain
 - Final book titles
-- Target audience confirmation
+- Target audience age range confirmation
 - Brand colors and logo
 - Higgsfield prompts and reference images
 - ElevenLabs voice and settings
@@ -247,5 +256,4 @@ Follow the Walter sequence where it differs; this is the default:
 - Workbooks: yes or no, and format
 - Lead magnet choice
 - Authenticity reviewer hire
-- Whether to analyze a reference account in the same niche for content patterns (discussed earlier; confirm with the user)
 - Launch date (planned shortly after Walter's launch)
