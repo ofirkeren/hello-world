@@ -30,7 +30,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 
 ## 3. Target audience
 
-**Men and women alike.** The core audience is adults aged roughly 30–55 who are stressed and tired: busy working parents juggling work, kids, bills and a packed schedule, who sleep badly and feel worn out. Older viewers (50+) are a secondary audience, especially for sleep and gentle body care. (Age range proposed; confirm with the user.)
+**Men and women alike.** The core audience is adults aged roughly 30–55 who are stressed and tired: busy working parents juggling work, kids, bills and a packed schedule, who feel worn out in body and mind. Older viewers (50+) are a secondary audience. (Age range proposed; confirm with the user.)
 
 **Everything must speak to men and women equally:** videos, captions, ebooks, audiobooks, workbooks, the landing page and marketing copy.
 - Don't assume the viewer or reader is a woman. Address "you," not "ladies" or "girls."
@@ -87,7 +87,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 ## 6. Voice and language
 
 ### Voice
-- Slow, rich, natural Southern accent. Calm and soothing: the kind of voice you could fall asleep to. This matters most for the audiobooks.
+- Slow, rich, natural Southern accent. Calm and soothing: a voice people enjoy listening to for a long time, which matters for the audiobooks.
 - **TBD:** ElevenLabs voice choice and settings (follow the Walter voice workflow).
 
 ### Language rules
@@ -109,6 +109,8 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 ---
 
 ## 7. Content: the 4 pillars
+
+**All four pillars are equally important.** No pillar is the "signature" or main topic. Sleep is one topic among many, not the center of the character or the brand. Rotate the pillars evenly across videos and posts, and don't let any one of them dominate her identity, bio, visuals or messaging.
 
 ### Pillar 1: Sleep and Rest
 - Why you wake up at 3 a.m. and can't fall back asleep
@@ -170,7 +172,7 @@ Her gentle version of motivation and self-improvement. **No hustle or grind cult
 ### Book 1 (launches first): sleep and stress (Pillars 1 + 2)
 - **Working title:** "Rest Easy, Baby: Miss Rosa Mae's Guide to Deep Sleep and a Quiet Mind" (may change with the name).
 - **Scope:** sleep **and** stress across the whole day, not only nighttime. It covers stress from work, kids, bills and a busy life, how that stress follows you into the night and wrecks your rest, how to calm down during the day, and how to sleep well.
-- **Why first:** sleep and stress have the broadest demand and the clearest promise, and they suit audio best.
+- **Why first:** stress and rest are a broad, everyday need with a clear promise. Launching Book 1 first is only a production order; it doesn't make Pillars 1 and 2 more important than 3 and 4 in the social content.
 - Likely chapters include the 3 a.m. wake-ups, racing thoughts, the wind-down routine, calming down in 60 seconds, the morning rush, saying no without guilt, and parents running on empty.
 
 ### Book 2: body care and self-worth (Pillars 3 + 4)
@@ -191,7 +193,7 @@ Her gentle version of motivation and self-improvement. **No hustle or grind cult
   1. Hero with her image and a short audio clip of her voice
   2. Who she is (short story, "not a doctor" line)
   3. Book 1 offer: ebook, ebook + audiobook, full bundle
-  4. Free sample (a sample chapter or a "7-Night Wind-Down" guide) in exchange for an email
+  4. Free sample (e.g. a sample chapter or a short guide such as "7 Days to a Calmer You") in exchange for an email
   5. Book 2 "coming soon" with a waitlist
   6. FAQ, the AI-character disclosure and the "not medical advice" note
 - **TBD:** pricing, bundles, lead magnet, domain.
@@ -239,7 +241,7 @@ Follow the Walter sequence where it differs; this is the default:
 6. **Book 1 audiobook** and the optional workbook.
 7. **Free lead magnet** taken from Book 1.
 8. **Landing page** with checkout, delivery, email capture and the Book 2 waitlist.
-9. **First batch of content:** 10–15 posts, mostly Pillars 1 and 2, scripted, fact-checked and reviewed. Then ManyChat flows and the Metricool schedule.
+9. **First batch of content:** 10–15 posts spread evenly across all 4 pillars, scripted, fact-checked and reviewed. Then ManyChat flows and the Metricool schedule.
 10. **Book 2** after Book 1 launches, shaped by audience response.
 
 ---
