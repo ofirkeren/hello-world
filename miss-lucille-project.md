@@ -1,17 +1,17 @@
-# Miss Rosa Mae — Project Brief for Claude Code
+# Miss Lucille — Project Brief for Claude Code
 
-This is the starting brief for building the AI character **Miss Rosa Mae** and her business. It covers what has been decided, what is still open, the rules to follow and the order of work.
+This is the starting brief for building the AI character **Miss Lucille** and her business. It covers what has been decided, what is still open, the rules to follow and the order of work.
 
 **Read this first:**
 - **This project copies the Walter process.** Walter is an earlier AI character with the same business model, already built and launching. Every workflow, template, tool setup and file convention comes from **`WALTER-PLAYBOOK.md`**. If that file is available, follow it, and only depart from it where this brief says something different. If it isn't available, ask the user before inventing a process.
 - **Items marked TBD aren't decided.** Don't invent them; ask the user or propose options.
-- **The name is still being tested.** "Miss Rosa Mae" is the working name. Write it exactly as "Miss Rosa Mae" (or "Rosa Mae") everywhere so it can be found and replaced in one pass if it changes. Don't buy domains, register handles or design logos around the name until the user confirms it.
+- **The name is decided: Miss Lucille.** Handles and the domain are not decided yet (@misslucille is already taken). Don't register handles, buy domains or design logos until the user confirms them.
 
 ---
 
 ## 1. Project overview
 
-- **What it is:** An AI character, Miss Rosa Mae, fronting social media accounts (Instagram first; TikTok and YouTube later). The main format is short videos where she speaks to camera, possibly with carousels too.
+- **What it is:** An AI character, Miss Lucille, fronting social media accounts (Instagram first; TikTok and YouTube later). The main format is short videos where she speaks to camera, possibly with carousels too.
 - **Subject:** Health of body and mind: sleep, stress, gentle physical health, happiness and self-worth.
 - **Brand promise:** *Feeling better in your body and your mind, one small habit at a time.*
 - **How it makes money:** She sells her **own digital products from her own landing page**: 2 ebooks, each also produced as an audiobook in her voice, and possibly workbooks.
@@ -36,7 +36,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 - Don't assume the viewer or reader is a woman. Address "you," not "ladies" or "girls."
 - Mix examples: dads and moms, husbands and wives, working men and working women, sons and daughters caring for aging parents.
 - Include stories and situations that resonate with men too, e.g. a man who won't admit he's stressed, a dad lying awake over bills, a husband whose back aches from a desk job.
-- Visuals, book covers, colors and design should feel warm and welcoming to everyone, not styled only for women. (Keep the rose theme subtle enough for that.)
+- Visuals, book covers, colors and design should feel warm and welcoming to everyone, not styled only for women.
 - Her role as an elder applies to everyone: she talks to grown men the same loving, no-nonsense way she talks to women.
 
 ---
@@ -47,7 +47,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 
 | Attribute | Decision |
 |---|---|
-| Name | **Miss Rosa Mae** (working name; "Miss" signals respect and Southern manners) |
+| Name | **Miss Lucille** ("Miss" signals respect and Southern manners) |
 | Age | **67**: a well-kept 67, active, healthy and vibrant, never frail |
 | Identity | Black Southern woman |
 | Body | Full-figured |
@@ -78,7 +78,6 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
 - Reading glasses; soft cardigans.
 - Settings: **her porch, her kitchen table, a cozy living room, her garden.**
 - Lifelong-learner props: stacks of books, notebooks full of notes.
-- **Rose theme** from her name: a rose in the logo, rose tones in the brand colors, roses in her garden. (Depends on the final name.)
 - **Consistency matters more than exact age:** same face, hair and apparent age in every image and video. Lock a reference set (face sheet, outfits, 3–4 fixed scenes) before producing content, the same way it was done for Walter.
 - **TBD:** exact Higgsfield prompts, reference images, brand colors, logo.
 
@@ -102,7 +101,7 @@ These were discussed earlier and **set aside**. Don't plan, write or suggest the
   - **"Aks" instead of "ask."** Always "ask."
   - Any pronunciation or grammar feature commonly used to mock Black speech.
   - Slang in every sentence. A sprinkle feels real; constant slang feels like a costume.
-- **Example intro:** "Well hey, baby, it's Miss Rosa Mae."
+- **Example intro (not final, TBD):** "Well hey, baby, it's Miss Lucille."
 - **Example limits line:** "I'm not a doctor, baby. I'm just a woman who's done a lot of reading and a lot of living. If something's really wrong, you go see somebody."
 - **Authenticity review:** a Black Southern woman (hired on Upwork or Fiverr) reviews voice samples and early scripts. Her judgment on what sounds natural wins. **TBD:** who, and how often.
 
@@ -170,18 +169,18 @@ Her gentle version of motivation and self-improvement. **No hustle or grind cult
 ## 8. Products
 
 ### Book 1 (launches first): sleep and stress (Pillars 1 + 2)
-- **Working title:** "Rest Easy, Baby: Miss Rosa Mae's Guide to Deep Sleep and a Quiet Mind" (may change with the name).
+- **Working title:** "Rest Easy, Baby: Miss Lucille's Guide to Deep Sleep and a Quiet Mind" (not final, TBD).
 - **Scope:** sleep **and** stress across the whole day, not only nighttime. It covers stress from work, kids, bills and a busy life, how that stress follows you into the night and wrecks your rest, how to calm down during the day, and how to sleep well.
 - **Why first:** stress and rest are a broad, everyday need with a clear promise. Launching Book 1 first is only a production order; it doesn't make Pillars 1 and 2 more important than 3 and 4 in the social content.
 - Likely chapters include the 3 a.m. wake-ups, racing thoughts, the wind-down routine, calming down in 60 seconds, the morning rush, saying no without guilt, and parents running on empty.
 
 ### Book 2: body care and self-worth (Pillars 3 + 4)
-- **Working title:** "Small Habits, Long Life: What Took Me 67 Years to Learn About Feeling Good" (may change with the name).
+- **Working title:** "Small Habits, Long Life: What Took Me 67 Years to Learn About Feeling Good" (not final, TBD).
 - **Scope:** day-to-day living: how you treat your body and how you treat yourself.
 - Shape it around what the audience responds to and asks about after Book 1 launches.
 
 ### Audiobooks
-- Each ebook is also produced as an audiobook in Miss Rosa Mae's voice (ElevenLabs, following the Walter audio workflow).
+- Each ebook is also produced as an audiobook in Miss Lucille's voice (ElevenLabs, following the Walter audio workflow).
 - Sold and delivered from her own landing page (e.g. MP3 downloads), not through Audible.
 
 ### Workbooks
@@ -233,7 +232,7 @@ Use the same tool stack and accounts setup as Walter (details in `WALTER-PLAYBOO
 
 Follow the Walter sequence where it differs; this is the default:
 
-1. **Read `WALTER-PLAYBOOK.md`** and set up the Rosa Mae project folder to mirror Walter's structure.
+1. **Read `WALTER-PLAYBOOK.md`** and set up the Miss Lucille project folder to mirror Walter's structure.
 2. **Character sheet:** signature phrases, recurring segments, how she opens and closes each video. Build on sections 4–6.
 3. **Visual reference set** in Higgsfield: face sheet, outfits, fixed scenes. Get user approval before mass production.
 4. **Voice:** choose and tune the ElevenLabs voice; produce samples for the authenticity reviewer.
@@ -248,7 +247,8 @@ Follow the Walter sequence where it differs; this is the default:
 
 ## 12. Open items (TBD)
 
-- Final character name (being tested), then handles (Instagram, TikTok, YouTube) and a domain
+- Handles (Instagram, TikTok, YouTube) and a domain (@misslucille is taken)
+- Intro line, sign-off and any recurring series or segments
 - Final book titles
 - Target audience age range confirmation
 - Brand colors and logo
