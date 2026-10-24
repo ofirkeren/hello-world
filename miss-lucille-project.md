@@ -11,10 +11,10 @@ This is the starting brief for building the AI character **Miss Lucille** and he
 
 ## 1. Project overview
 
-- **What it is:** An AI character, Miss Lucille, fronting social media accounts (Instagram first; TikTok and YouTube later). The main format is short videos where she speaks to camera, possibly with carousels too.
+- **What it is:** An AI character, Miss Lucille, fronting social media accounts on Instagram, TikTok and YouTube, all three launching together. The main format is short videos where she speaks to camera, possibly with carousels too.
 - **Subject:** Health of body and mind: sleep, stress, gentle physical health, happiness and self-worth.
 - **Brand promise:** *Feeling better in your body and your mind, one small habit at a time.*
-- **How it makes money:** She sells her **own digital products from her own landing page**: 2 ebooks, each also produced as an audiobook in her voice, and possibly workbooks.
+- **How it makes money:** She sells her **own digital products from her own landing page**: 2 books, each sold as a package of **ebook + audiobook (in her voice) + workbook**. Both books are ready on the landing page at launch. (Same model as Walter.)
 - **Social content's job:** Build trust and an audience, and send people to the landing page.
 
 ## 2. Out of scope (don't include)
@@ -168,33 +168,37 @@ Her gentle version of motivation and self-improvement. **No hustle or grind cult
 
 ## 8. Products
 
-### Book 1 (launches first): sleep and stress (Pillars 1 + 2)
+### Book 1: sleep and stress (Pillars 1 + 2)
 - **Working title:** "Rest Easy, Baby: Miss Lucille's Guide to Deep Sleep and a Quiet Mind" (not final, TBD).
 - **Scope:** sleep **and** stress across the whole day, not only nighttime. It covers stress from work, kids, bills and a busy life, how that stress follows you into the night and wrecks your rest, how to calm down during the day, and how to sleep well.
-- **Why first:** stress and rest are a broad, everyday need with a clear promise. Launching Book 1 first is only a production order; it doesn't make Pillars 1 and 2 more important than 3 and 4 in the social content.
 - Likely chapters include the 3 a.m. wake-ups, racing thoughts, the wind-down routine, calming down in 60 seconds, the morning rush, saying no without guilt, and parents running on empty.
 
 ### Book 2: body care and self-worth (Pillars 3 + 4)
 - **Working title:** "Small Habits, Long Life: What Took Me 67 Years to Learn About Feeling Good" (not final, TBD).
 - **Scope:** day-to-day living: how you treat your body and how you treat yourself.
-- Shape it around what the audience responds to and asks about after Book 1 launches.
+
+### What each book includes
+Both books launch **together**, fully ready on the landing page at launch day. Each book comes with all three parts (same as Walter):
+1. **Ebook**
+2. **Audiobook** version
+3. **Workbook**: companion exercises, checklists and trackers that follow the book's chapters
 
 ### Audiobooks
 - Each ebook is also produced as an audiobook in Miss Lucille's voice (ElevenLabs, following the Walter audio workflow).
 - Sold and delivered from her own landing page (e.g. MP3 downloads), not through Audible.
 
 ### Workbooks
-- **Maybe (TBD).** Companion workbooks for one or both books (exercises, checklists, trackers). Decide with the user whether they are sold separately, as an add-on, or included in a bundle.
+- **Decided:** each book has its own workbook (exercises, checklists, trackers that follow its chapters). Follow the Walter workbook format.
+- **TBD:** how the parts are sold (e.g. as one package per book, separately, or a bundle of both books); follow Walter's setup unless the user says otherwise.
 
 ### Landing page
 - Her own website/landing page sells the products. Build it the way Walter's was built (Whop for checkout and delivery, per the Walter playbook).
 - **Proposed structure, confirm with the user:**
   1. Hero with her image and a short audio clip of her voice
   2. Who she is (short story, "not a doctor" line)
-  3. Book 1 offer: ebook, ebook + audiobook, full bundle
+  3. Both books, each with its ebook, audiobook and workbook, plus a bundle of both (pricing TBD)
   4. Free sample (e.g. a sample chapter or a short guide such as "7 Days to a Calmer You") in exchange for an email
-  5. Book 2 "coming soon" with a waitlist
-  6. FAQ, the AI-character disclosure and the "not medical advice" note
+  5. FAQ, the AI-character disclosure and the "not medical advice" note
 - **TBD:** pricing, bundles, lead magnet, domain.
 
 ---
@@ -236,12 +240,12 @@ Follow the Walter sequence where it differs; this is the default:
 2. **Character sheet:** signature phrases, recurring segments, how she opens and closes each video. Build on sections 4–6.
 3. **Visual reference set** in Higgsfield: face sheet, outfits, fixed scenes. Get user approval before mass production.
 4. **Voice:** choose and tune the ElevenLabs voice; produce samples for the authenticity reviewer.
-5. **Book 1 outline**, approved by the user, then the **Book 1 manuscript** (fact-checked, with a source log).
-6. **Book 1 audiobook** and the optional workbook.
-7. **Free lead magnet** taken from Book 1.
-8. **Landing page** with checkout, delivery, email capture and the Book 2 waitlist.
-9. **First batch of content:** 10–15 posts spread evenly across all 4 pillars, scripted, fact-checked and reviewed. Then ManyChat flows and the Metricool schedule.
-10. **Book 2** after Book 1 launches, shaped by audience response.
+5. **Book outlines** for both books, approved by the user, then **both manuscripts** (fact-checked, with a source log).
+6. **Both audiobooks** and **both workbooks**.
+7. **Free lead magnet** (if the user wants one; TBD).
+8. **Landing page** with both books (ebook + audiobook + workbook each), checkout, delivery and email capture.
+9. **First batch of content** for Instagram, TikTok and YouTube: 10–15 posts spread evenly across all 4 pillars, scripted, fact-checked and reviewed. Then ManyChat flows and the Metricool schedule.
+10. **Launch:** both books live on the landing page and all three platforms go live together.
 
 ---
 
@@ -255,7 +259,7 @@ Follow the Walter sequence where it differs; this is the default:
 - Higgsfield prompts and reference images
 - ElevenLabs voice and settings
 - Pricing and bundles
-- Workbooks: yes or no, and format
+- Workbook format and how the ebook, audiobook and workbook are packaged and sold
 - Lead magnet choice
 - Authenticity reviewer hire
 - Launch date (planned shortly after Walter's launch)
